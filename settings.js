@@ -11,13 +11,13 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2348051465994"
-global.ownername = "KANAYO Jnr"
+global.ownername = "BELLE FULL🌝🌕"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,Cross River,Calabar"
 
 global.ownernumber = '2348051465994'  //creator number
-global.ownername = 'KANAYO Jnr' //owner name
+global.ownername = 'BELLE FULL🌝🌕' //owner name
 global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
 
 //sticker details
